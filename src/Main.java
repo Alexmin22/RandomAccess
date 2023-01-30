@@ -37,6 +37,5 @@ public class Main {
             raf2.write(bytes);
           }
 
-
     }
 }
