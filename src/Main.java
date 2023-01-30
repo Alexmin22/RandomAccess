@@ -20,7 +20,6 @@ public class Main {
         String st2 = "У меня для тебя шикарная новость. Вот тебе задания для закрепления полученных навыков." +
                 " Выполняй их каждый день, и твои навыки будут расти с неимоверной скоростью. Они специально " +
                 "разработаны для выполнения их в Intellij IDEA.";
-        String st3 ="";
 
         try (RandomAccessFile raf = new RandomAccessFile("text1.txt", "rw");
         RandomAccessFile raf2 = new RandomAccessFile("text2.txt", "rw");) {
