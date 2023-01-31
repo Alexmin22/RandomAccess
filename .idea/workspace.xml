@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc8747c8-c833-4fbd-af46-0d1eb456fd3b" name="Changes" comment="готово">
-      <change afterPath="$PROJECT_DIR$/src/Rounding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="cc8747c8-c833-4fbd-af46-0d1eb456fd3b" name="Changes" comment="Задача с округлениями чисел">
+      <change afterPath="$PROJECT_DIR$/src/SortingChar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Rounding">
+  <component name="RunManager" selected="Application.SortingChar">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="RandomAccess" />
@@ -59,8 +57,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingChar" />
+      <module name="RandomAccess" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortingChar" />
         <item itemvalue="Application.Rounding" />
         <item itemvalue="Application.Main" />
       </list>
@@ -89,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675097039205</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Задача с округлениями чисел">
+      <created>1675101873105</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675101873105</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="готово" />
-    <option name="LAST_COMMIT_MESSAGE" value="готово" />
+    <MESSAGE value="Задача с округлениями чисел" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача с округлениями чисел" />
   </component>
 </project>
